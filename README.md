@@ -8,8 +8,8 @@ This is a test for using GitHub.
 
 ## Getting a Grasp on Data Science
 
-![](Data_in_Hand.png)
+![](Data_in_Hand.jpg)
 
 ## A World of Opportunities
 
-![](Data_Science_World.png)
+![](Data_Science_World.jpg)
